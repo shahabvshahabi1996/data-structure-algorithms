@@ -8,7 +8,7 @@ consider we have an array like below:
 |---|---|---|---|---|---|---|---|
 
 <br></br>
-Now we want to sort it in acsending order.
+Now we want to sort it in ascending order.
 
 ```
 LOOP
@@ -20,7 +20,7 @@ then swap element index i + 1 with index i.
 if we rich the end element (array.length - 1)
 then start at index 0.
 
-ENDLOOP
+END LOOP
 
 repeat this LOOP about array.length - 2 times;
 
