@@ -10,7 +10,6 @@ consider we have an array like below:
 | 20 | 35 | -15 |7 | 55 | 1 | -22|
 |----|----|-----|--|----|---|----|
 
-<br></br>
 
 Now we want to sort it in ascending order.
 just like below:
@@ -37,7 +36,6 @@ The execution table this array will look like this:
 |---|---|---|---|---|---|----|
 
 <br></br>
-
 ## **Step 1**
 
 |elementIndex | largestIndex | lastUnSortedIndex |
