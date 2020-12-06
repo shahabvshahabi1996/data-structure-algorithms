@@ -7,8 +7,9 @@ difference is you swap when second element is bigger that first one.
 <br></br>
 consider we have an array like below:
 
-| 20 | 35 | -15 |7 | 55 | 1 | -22| 
-|---|---|---|---|---|---|---|---|
+| 20 | 35 | -15 |7 | 55 | 1 | -22|
+|----|----|-----|--|----|---|----|
+
 <br></br>
 
 Now we want to sort it in ascending order.
@@ -32,8 +33,9 @@ repeat this LOOP till we get the sorted array
 <br></br>
 The execution table this array will look like this:
 
-|20 | 35 | -15 |7 | 55 | 1 | -22| 
-|---|---|---|---|---|---|---|---|
+|20 | 35|-15| 7 | 55| 1 | -22| 
+|---|---|---|---|---|---|----|
+
 <br></br>
 
 ## **Step 1**
@@ -52,8 +54,8 @@ The execution table this array will look like this:
 
 the result will look like this:
 
-|20 | 35 | -15 |7 | -22 | 1 | `55`| 
-|---|---|---|---|---|---|---|---|
+|20 | 35 |-15|7  | -22| 1 | `55`| 
+|---|----|---|---|----|---|-----|
 
 <br></br>
 
@@ -73,7 +75,8 @@ the result will look like this:
 the result will look like this:
 
 |20 | 1 | -15 |7 | -22 | `35` | `55`| 
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
+
 <br></br>
 
 ## **Step 3**
@@ -91,7 +94,8 @@ the result will look like this:
 the result will look like this:
 
 |-22 | 1 | -15 | 7 | `20` | `35` | `55`| 
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
+
 <br></br>
 
 ## **Step 4**
@@ -108,7 +112,8 @@ the result will look like this:
 the result will look like this:
 
 |-22 | 1 | -15 | `7` | `20` | `35` | `55`| 
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
+
 <br></br>
 
 
@@ -125,7 +130,8 @@ the result will look like this:
 the result will look like this:
 
 |-22 | -15 | `1` | `7` | `20` | `35` | `55`| 
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
+
 <br></br>
 
 
@@ -141,7 +147,8 @@ the result will look like this:
 the result will look like this:
 
 |-22 | `-15` | `1` | `7` | `20` | `35` | `55`| 
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
+
 <br></br>
 
 ## **Step 7**
@@ -155,7 +162,7 @@ the result will look like this:
 the result will look like this:
 
 |`-22` | `-15` | `1` | `7` | `20` | `35` | `55`| 
-|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 
 <br></br>
 ## Sample Code
