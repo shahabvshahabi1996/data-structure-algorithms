@@ -1,4 +1,4 @@
-# Data Structure and Algorithms
+# Data Structure and Algorithms Java
 
 ## Table of Contents :
 * Info
