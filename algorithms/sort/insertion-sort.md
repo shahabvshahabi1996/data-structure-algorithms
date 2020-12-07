@@ -1,5 +1,5 @@
 # Insertion Sort
-**TIME COMPLEXITY: IT DEPENDS ON IMPLEMENTATION**
+**TIME COMPLEXITY: IT DEPENDS ON IMPLEMENTATION || O(N^2)**
 
 In this algorithm we are going to sort elements in array by shifting the elements and inserts the unsorted element to it's
 correct position.
@@ -67,9 +67,6 @@ checks that if unSortedIndexElement (`-15`) is less than element at index i (`35
 |---|---|---|---|---|---|---|
 
 <br></br>
-
-unSortedIndex = 2
-
 i = 0
 
 checks that if unSortedIndexElement (`-15`) is less than element at index i (`20`) then it is going to shift the array to right.
@@ -100,7 +97,6 @@ checks that if unSortedIndexElement (`7`) is less than element at index i (`35`)
 |---|---|---|---|---|---|---|
 
 <br></br>
-
 i = 1
 
 checks that if unSortedIndexElement (`7`) is less than element at index i (`20`) then it is going to shift the array to right.
@@ -109,7 +105,6 @@ checks that if unSortedIndexElement (`7`) is less than element at index i (`20`)
 |---|---|---|---|---|---|---|
 
 <br></br>
-
 i = 0
 
 checks that if unSortedIndexElement (`7`) is less than element at index i (`-15`) then it is going to shift the array to right.
@@ -156,7 +151,6 @@ checks that if unSortedIndexElement (`1`) is less than element at index i (`55`)
 |---|---|---|---|---|---|---|
 
 <br></br>
-
 i = 3
 
 checks that if unSortedIndexElement (`1`) is less than element at index i (`35`) then it is going to shift the array to right.
@@ -165,7 +159,6 @@ checks that if unSortedIndexElement (`1`) is less than element at index i (`35`)
 |---|---|---|---|---|---|---|
 
 <br></br>
-
 i = 2
 
 checks that if unSortedIndexElement (`1`) is less than element at index i (`20`) then it is going to shift the array to right.
@@ -174,8 +167,6 @@ checks that if unSortedIndexElement (`1`) is less than element at index i (`20`)
 |---|---|---|---|---|---|---|
 
 <br></br>
-
-
 i = 1
 
 checks that if unSortedIndexElement (`1`) is less than element at index i (`7`) then it is going to shift the array to right.
@@ -184,7 +175,6 @@ checks that if unSortedIndexElement (`1`) is less than element at index i (`7`) 
 |---|---|---|---|---|---|---|
 
 <br></br>
-
 i = 0
 
 checks that if unSortedIndexElement (`1`) is less than element at index i (`-15`) then it is going to shift the array to right.
@@ -218,7 +208,6 @@ checks that if unSortedIndexElement (`-22`) is less than element at index i (`55
 |---|---|---|---|---|---|---|
 
 <br></br>
-
 i = 4
 
 checks that if unSortedIndexElement (`-22`) is less than element at index i (`35`) then it is going to shift the array to right.
@@ -227,7 +216,6 @@ checks that if unSortedIndexElement (`-22`) is less than element at index i (`35
 |---|---|---|---|---|---|---|
 
 <br></br>
-
 i = 3
 
 checks that if unSortedIndexElement (`-22`) is less than element at index i (`20`) then it is going to shift the array to right.
@@ -236,7 +224,6 @@ checks that if unSortedIndexElement (`-22`) is less than element at index i (`20
 |---|---|---|---|---|---|---|
 
 <br></br>
-
 i = 2
 
 checks that if unSortedIndexElement (`-22`) is less than element at index i (`7`) then it is going to shift the array to right.
@@ -245,7 +232,6 @@ checks that if unSortedIndexElement (`-22`) is less than element at index i (`7`
 |---|---|---|---|---|---|---|
 
 <br></br>
-
 i = 1
 
 checks that if unSortedIndexElement (`-22`) is less than element at index i (`1`) then it is going to shift the array to right.
@@ -254,7 +240,6 @@ checks that if unSortedIndexElement (`-22`) is less than element at index i (`1`
 |---|---|---|---|---|---|---|
 
 <br></br>
-
 i = 0
 
 checks that if unSortedIndexElement (`-22`) is less than element at index i (`-15`) then it is going to shift the array to right.
