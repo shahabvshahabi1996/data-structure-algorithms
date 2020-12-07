@@ -11,4 +11,5 @@
     * Sort Algorithms
         * [Bubble Sort](./algorithms/sort/bubble-sort.md)
         * [Selection Sort](./algorithms/sort/selection-sort.md)
+        * [Insertion Sort](./algorithms/sort/insertion-sort.md)
 
