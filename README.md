@@ -12,5 +12,6 @@
         * [Bubble Sort](./algorithms/sort/bubble-sort.md)
         * [Selection Sort](./algorithms/sort/selection-sort.md)
         * [Insertion Sort](./algorithms/sort/insertion-sort.md)
-        * [Shell sort](./algorithms/sort/shell-sort.md)
+        * [Shell Sort](./algorithms/sort/shell-sort.md)
+        * [Merge Sort](./algorithms/sort/merge-sort.md)
 
