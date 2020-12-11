@@ -4,6 +4,7 @@
 * Info
     * [Data Types in Java](./info/data-types.md)
     * [Big O Notations](./info/big-o-notations.md)
+    * [Recursion](./info/recursion.md)
 * Data Structure
     * [Array](./data-structures/array.md)
 
