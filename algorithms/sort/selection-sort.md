@@ -19,7 +19,7 @@ LOOP
 largest index = 0
 
 if element at index i < element at index j 
-then we put largest to index = js.
+then we put largest to index = j.
 
 if we rich the last unsorted index then we swap the largest index
 element with the last unsorted index.
