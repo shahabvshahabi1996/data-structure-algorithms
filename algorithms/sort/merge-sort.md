@@ -1,4 +1,4 @@
-# MergeSort
+# Merge Sort
 **TIME COMPLEXITY: O(N * LogN)**
 
 this algorithm is a kind of divide and conquer and it contains of **Dividing** and **Sorting** sub arrays.
